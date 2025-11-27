@@ -14,13 +14,13 @@ All notebooks were developed on Google Colab and uploaded here as standard Jupyt
 ### Task 2 – Customer Segmentation
 - **File**: [**`Customer_Segmentation.ipynb`**](Customer_Segmentation.ipynb)
 - **Description**: Unsupervised clustering of mall customers based on annual income and spending score.
-- **Techniques**: K-Means & DBSCAN, Elbow Method, Silhouette Score, 2D/3D visualizations
+- **Techniques**: K-Means & DBSCAN, Elbow Method, Silhouette Score, visualizations
 - **Dataset**: Mall Customers (Kaggle)
 
 ### Task 3 – Forest Cover Type Classification
 - **File**: [**`Forest_Cover_Type_Classification.ipynb`**](Forest_Cover_Type_Classification.ipynb)
 - **Description**: Multi-class classification on a large dataset (581,012 samples, 54 features) to predict 7 forest cover types.
-- **Techniques**: Multiple classifiers, model comparison, achieved ~96% accuracy
+- **Techniques**: Multiple classifiers, model comparison
 - **Dataset**: Covertype – UCI Machine Learning Repository
 
 ### Task 4 – Loan Approval Prediction
